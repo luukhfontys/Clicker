@@ -1,0 +1,14 @@
+E:\VScode\C# projects\Clicker\bin\Debug\net7.0\Clicker.exe
+E:\VScode\C# projects\Clicker\bin\Debug\net7.0\Clicker.deps.json
+E:\VScode\C# projects\Clicker\bin\Debug\net7.0\Clicker.runtimeconfig.json
+E:\VScode\C# projects\Clicker\bin\Debug\net7.0\Clicker.dll
+E:\VScode\C# projects\Clicker\bin\Debug\net7.0\Clicker.pdb
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\Clicker.AssemblyInfoInputs.cache
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\Clicker.AssemblyInfo.cs
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\Clicker.csproj.CoreCompileInputs.cache
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\Clicker.dll
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\refint\Clicker.dll
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\Clicker.pdb
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\Clicker.genruntimeconfig.cache
+E:\VScode\C# projects\Clicker\obj\Debug\net7.0\ref\Clicker.dll
